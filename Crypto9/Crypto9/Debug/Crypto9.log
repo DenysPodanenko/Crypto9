@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\den\source\repos\crypto9\crypto9\source.cpp(49): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\den\source\repos\crypto9\crypto9\source.cpp(241): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Crypto9.vcxproj -> C:\Users\Den\source\repos\Crypto9\Debug\Crypto9.exe
